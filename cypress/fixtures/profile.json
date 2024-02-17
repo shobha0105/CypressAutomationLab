@@ -1,0 +1,9 @@
+{
+  "email": "jane_nicholas@example.com",
+  "password": "cypress",
+  "gender": "male",
+  "firstName" : "Jane",
+  "lastName" : "Nicholas",
+  "year" : "1980",
+  "company" : "Corporation "
+}
